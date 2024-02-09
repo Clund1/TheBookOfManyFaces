@@ -22,8 +22,6 @@ Whether you are a Dungeon Master managing NPCs or a player with a diverse array 
 
 To experience "The Book of Many Faces," you can visit [here](https://www.youtube.com/watch?v=oHg5SJYRHA0&t=0s).
 
-## Wireframes & ERD
-
 ## Next Steps
 
 Planned future enhancements for "The Book of Many Faces" include:
