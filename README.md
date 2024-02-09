@@ -7,9 +7,13 @@
 
 Whether you are a Dungeon Master managing NPCs or a player with a diverse array of characters, TBoMF provides a convenient way to store and access character information.
 
-## Screenshots
+## Wireframes | ERD | User Stories
 
---coming soon--
+![Wireframe](public/imgs/WF.png)
+
+![ERD](public/imgs/ERD.png)
+
+![User Stories](public/imgs/US.png)
 
 ## Technologies Used
 
